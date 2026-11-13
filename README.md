@@ -43,6 +43,12 @@ The project includes four visualizations:
 - `tips_overview.png` – Final 2×2 visualization dashboard.
 - `requirements.txt` – Project dependencies.
 
+  ## Live Dashboard
+
+Explore the interactive dashboard here:
+
+**https://interncircle-data-visualization-aawneya.streamlit.app/**
+
 ## How to Run
 1. Download the notebook.
 2. Open it using Google Colab or Jupyter Notebook.
